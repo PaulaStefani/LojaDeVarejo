@@ -6,6 +6,6 @@ fun main(args: Array<String>) {
     val transportadora = Transportadora("Transporte Paulinho e Zeca ao seu lado", "5134932670", "transportepaulinhoezeca@gmail.com")
     val cliente = Cliente("João Alberto Ferreira dos Campos Amaro", "51993877382")
     val venda = Venda ("5564546")
-    val produto = Produto (" O higienico Neve extrasuave", "Higiene pessoal", "5 reais", "8 mil rolos")
+    val produto = Produto (" O higienico Neve extra suave", "Higiene pessoal", "5 reais", "8 mil rolos")
 
 }
