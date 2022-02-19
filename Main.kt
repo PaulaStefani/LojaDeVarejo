@@ -61,7 +61,7 @@ fun main(args: Array<String>) {
     println(venda.quantidade)
 
     val produto = Produto(
-        " O higienico Neve extrasuave",
+        " Papel higienico Neve extrasuave",
         "Higiene pessoal",
         "5 reais",
         "8 mil rolos"
